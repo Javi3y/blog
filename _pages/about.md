@@ -5,4 +5,4 @@ layout: single
 author_profile: true
 ---
 
-ِک برنامه نویس و دواپسی خسته
+یک برنامه نویس و دواپسی خسته
